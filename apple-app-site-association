@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "NPJ23CSQ3X.com.hypnocloud.app",
-      "paths": ["*/app"]
+      "paths": ["*"]
     }
     ]
   }
